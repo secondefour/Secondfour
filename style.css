@@ -1,0 +1,28 @@
+h1
+{
+    color: chartreuse
+}
+
+h2
+{
+    color: blue
+}
+
+h4
+{
+    color: red
+}
+
+body
+{
+    width: 800px;
+    margin: 0 auto;
+    background-color: black;
+    text-align: center;
+    align-content: center;
+
+}
+body
+{
+    color: white
+}
